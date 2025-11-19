@@ -2,6 +2,8 @@
 
 Team AITOK participates in various tasks at NTCIR. This repository has been prepared to disclose information about past participation results as needed.
 
+[NTCIR](https://research.nii.ac.jp/ntcir/)
+
 ## Repositories
 
 Currently, the following information is available:
