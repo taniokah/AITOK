@@ -31,3 +31,9 @@ The analysis code is released under the MIT License (see `LICENSE`).
 ### Data
 The dataset and results are released under the Creative Commons
 Attribution 4.0 International License (CC BY 4.0) (see `LICENSE-data`).
+
+## Acknowledgments
+
+This work was supported by JSPS KAKENHI Grant Number JP22K12293.  
+This containt is managed by Hiroki Tanioka (taniokah[at]gmail.com), since 2025.
+
