@@ -4,6 +4,8 @@ This page publishes the tools and data used by Team AITOK when conducting
 additional experiments and evaluating their accuracy following participation 
 in NTCIR-18 MedNLP-CHAT.
 
+[NTCIR-1 MedNLP-CHAT](https://sociocom.naist.jp/mednlp-chat/)
+
 ## Dataset
 
 [results](https://github.com/taniokah/AITOK/tree/main/results)
