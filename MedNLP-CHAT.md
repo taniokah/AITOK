@@ -6,6 +6,13 @@ in NTCIR-18 MedNLP-CHAT.
 
 [NTCIR-1 MedNLP-CHAT](https://sociocom.naist.jp/mednlp-chat/)
 
+- [NTCIR-18 MedNLP-CHAT
+Determining Medical, Ethical and Legal Risks
+in Patient-Doctor Conversations:
+Task Overview](https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings18/pdf/ntcir/01-NTCIR18-OV-MEDNLP-AramakiE.pdf)
+- [AITOK at the NTCIR-18 MedNLP-CHAT to Identify Medical,
+Ethical and Legal Risks in Patient-Doctor Conversations](https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings18/pdf/ntcir/08-NTCIR18-MEDNLP-TaniokaH.pdf)
+
 ## Dataset
 
 [results](https://github.com/taniokah/AITOK/tree/main/results)
