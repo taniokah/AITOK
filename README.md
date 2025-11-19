@@ -1,4 +1,4 @@
-# AITOK-MedNLP-CHAT
+# AITOK
 
 ## License
 
