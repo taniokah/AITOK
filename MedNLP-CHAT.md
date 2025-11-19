@@ -19,7 +19,7 @@ languages (de/en/fr) obtained using 13 different LLMs.
 We are releasing an accuracy evaluation tool in IPython notebook (ipynb) format that can be run on Google Colaboratory.
 To run this tool, launch it in the Google Colaboratory environment, create a results directory, place the ground truth data (xlsx) and LLM output results (csv) there, and then execute each cell.
 
-<img src="https://github.com/taniokah/AITOK/blob/main/images/MedicalRisk(de).png" width="600pt" alt="ROC Curve">
+<img src="https://github.com/taniokah/AITOK/blob/main/images/MedicalRisk(de).png" width="480pt" alt="ROC Curve">
 
 This tool generates a ROC curve for each output result and calculates the AUC. ROC curve graphs are overlaid to compare and evaluate LLMs.
 
