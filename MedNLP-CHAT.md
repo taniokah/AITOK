@@ -6,6 +6,8 @@ in NTCIR-18 MedNLP-CHAT.
 
 ## Dataset
 
+[results](https://github.com/taniokah/AITOK/tree/main/results)
+
 All data required for accuracy evaluation is located under the results directory.
 This includes 112 questions from the German task released in NTCIR-18 MedNLP-CHAT, 
 containing only the correct answers for the three risks, along with 117 CSV files 
