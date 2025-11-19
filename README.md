@@ -1,5 +1,13 @@
 # AITOK
 
+This page publishes the tools and data used by Team AITOK when conducting 
+additional experiments and evaluating their accuracy following participation 
+in NTCIR-18 MedNLP-CHAT.
+
+## Dataset
+
+## Tool
+
 ## License
 
 ### Code
