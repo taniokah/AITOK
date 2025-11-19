@@ -20,7 +20,8 @@ We are releasing an accuracy evaluation tool in IPython notebook (ipynb) format 
 To run this tool, launch it in the Google Colaboratory environment, create a results directory, place the ground truth data (xlsx) and LLM output results (csv) there, and then execute each cell.
 
 This tool generates a ROC curve for each output result and calculates the AUC. ROC curve graphs are overlaid to compare and evaluate LLMs.
-![ROC Curve](picture/MedicalRisl(de).png)
+
+![ROC Curve](/images/MedicalRisl(de).png)
 
 ## License
 
