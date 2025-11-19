@@ -21,7 +21,7 @@ To run this tool, launch it in the Google Colaboratory environment, create a res
 
 This tool generates a ROC curve for each output result and calculates the AUC. ROC curve graphs are overlaid to compare and evaluate LLMs.
 
-<img src="https://github.com/taniokah/AITOK/blob/main/images/MedicalRisk(de).png" width="200px" alt="ROC Curve">ROC Curve</a>
+<img src="https://github.com/taniokah/AITOK/blob/main/images/MedicalRisk(de).png" width="300pt" alt="ROC Curve">
 
 ## License
 
