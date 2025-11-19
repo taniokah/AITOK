@@ -31,7 +31,7 @@ We are releasing an accuracy evaluation tool in IPython notebook (ipynb) format 
 To run this tool, launch it in the Google Colaboratory environment, create a results directory, place the ground truth data (xlsx) and LLM output results (csv) there, and then execute each cell.
 
 <div>
-<img src="https://github.com/taniokah/AITOK/blob/main/images/MedicalRisk(de).png?raw=true" width="480pt" alt="ROC Curve"> 
+<img src="https://github.com/taniokah/AITOK/blob/main/images/MedicalRisk(de).png?raw=true" width="480pt" alt="ROC Curve"><br>
 Fig 1. ROC Curves on MedicalRisk(de) of German Task.
 </div>
 
