@@ -13,3 +13,5 @@
 ## 謝辞
 
 本コンテンツは2025年よりHiroki Tanioka（taniokah[at]gmail.com）が管理しています。
+
+➡️ [English](README.md)
