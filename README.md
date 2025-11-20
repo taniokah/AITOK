@@ -13,3 +13,5 @@ Currently, the following information is available:
 ## Acknowledgments
 
 This containt is managed by Hiroki Tanioka (taniokah[at]gmail.com), since 2025.
+
+➡️ [Japanese](README_ja.md)
