@@ -48,7 +48,9 @@ ROC curve graphs are overlaid to compare and evaluate LLMs like Fig 1.
 
 ## Results
 
-LLMs output: [results](results)
+LLMs output: 
+
+[LLM results](results)
 
 All data required for accuracy evaluation is located under the results directory.
 This includes 112 questions from the German task released in NTCIR-18 MedNLP-CHAT, 
@@ -56,7 +58,10 @@ containing only the correct answers for the three risks, along with 117 CSV file
 listing the probability values (TRUE/FALSE) for the three risks across three 
 languages (de/en/fr) obtained using 13 different LLMs.
 
-Statistical results: [csv][ROC-AUC_results_and_statistical_testing.csv](ROC-AUC_results_and_statistical_testing.csv)[xlsx](ROC-AUC_results_and_statistical_testing.xlsx)
+Statistical results: 
+
+[csv](ROC-AUC_results_and_statistical_testing.csv)
+[xlsx](ROC-AUC_results_and_statistical_testing.xlsx)
 
 This document summarizes the ROC-AUC values and statistical data 
 when using 13 LLMs for three languages and three risks.
