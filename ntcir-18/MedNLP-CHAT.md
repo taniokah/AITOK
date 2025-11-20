@@ -21,12 +21,12 @@ The data consists of a question, an answer, and labels for the answer.
 The labels for each answer are objective labels (‘medicalRisk’, ‘ethicalRisk’, 
 and ‘legalRisk’) judged by experts considering German laws and medical guidelines. 
 
-Data size: Each language comprises approximately 200 pairs of Question, Answer, 
-and Answer labels. Out of the 200 language pairs, 100 (each) are released as a training set. 
+Data size: 
+German dataset comprises 112 pairs of Question and Answer as test set. 
 Questions and answers are created by humans, referencing responses from a chatbot.
 Answer labels represent the evaluation of the answers, which will be estimated in this task. 
-There are six labels comprising three objective labels (medicalRisk, ethicalRisk, and legalRisk) 
-assigned by experts based on Japanese/German laws and medical guidelines. 
+There are three labels (medicalRisk, ethicalRisk, and legalRisk) assigned by experts 
+based on German laws and medical guidelines. 
 
 Languages: 
 Step 1: Data is created.
