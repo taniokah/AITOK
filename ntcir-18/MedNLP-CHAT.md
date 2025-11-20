@@ -49,7 +49,6 @@ ROC curve graphs are overlaid to compare and evaluate LLMs like Fig 1.
 ## Results
 
 LLMs output: 
-
 [LLM results](results)
 
 All data required for accuracy evaluation is located under the results directory.
@@ -59,7 +58,6 @@ listing the probability values (TRUE/FALSE) for the three risks across three
 languages (de/en/fr) obtained using 13 different LLMs.
 
 Statistical results: 
-
 [csv](ROC-AUC_results_and_statistical_testing.csv)
 [xlsx](ROC-AUC_results_and_statistical_testing.xlsx)
 
