@@ -8,7 +8,7 @@ Team AITOK participates in various tasks at NTCIR. This repository has been prep
 
 Currently, the following information is available:
 
-- [MedNLP-CHAT](MedNLP-CHAT.md)
+- [MedNLP-CHAT](ntcir-18/MedNLP-CHAT.md)
 
 ## Acknowledgments
 
