@@ -15,7 +15,7 @@ Ethical and Legal Risks in Patient-Doctor Conversations](https://research.nii.ac
 
 ## Dataset
 
-[results](https://github.com/taniokah/AITOK/tree/main/results)
+[results](https://github.com/taniokah/AITOK/tree/main/ntcir-18/results)
 
 All data required for accuracy evaluation is located under the results directory.
 This includes 112 questions from the German task released in NTCIR-18 MedNLP-CHAT, 
@@ -25,7 +25,7 @@ languages (de/en/fr) obtained using 13 different LLMs.
 
 ## Tool
 
-[LLMs_for_MedNLP_CHAT_Accuracy_Evaluation.ipynb](https://github.com/taniokah/AITOK/blob/main/LLMs_for_MedNLP_CHAT_Accuracy_Evaluation.ipynb)
+[LLMs_for_MedNLP_CHAT_Accuracy_Evaluation.ipynb](https://github.com/taniokah/AITOK/blob/main/ntcir-18/LLMs_for_MedNLP_CHAT_Accuracy_Evaluation.ipynb)
 
 We are releasing an accuracy evaluation tool in IPython notebook (ipynb) format that can be run on Google Colaboratory.
 To run this tool, launch it in the Google Colaboratory environment, create a results directory, place the ground truth data (xlsx) and LLM output results (csv) there, and then execute each cell.
