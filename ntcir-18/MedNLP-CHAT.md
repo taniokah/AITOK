@@ -1,3 +1,5 @@
+📄 Paper: https://doi.org/10.1007/s44230-025-00131-4
+
 # AITOK in NTCIR-18 MedNLP-CHAT
 
 [NTCIR-18 MedNLP-CHAT](https://sociocom.naist.jp/mednlp-chat/)
@@ -77,4 +79,13 @@ Attribution 4.0 International License (CC BY 4.0) (see `LICENSE-data`).
 
 This work was supported by JSPS KAKENHI Grant Number JP22K12293.  
 This containt is managed by Hiroki Tanioka (taniokah[at]gmail.com), since 2025.
+
+## Citation
+
+If you use this repository, dataset, or evaluation framework, please cite:
+
+Tanioka, H. (2025).  
+*Towards Safe and Trustworthy Healthcare AI: Risk Assessment of Medical Dialogue Using LLMs*.  
+Human-Centric Intelligent Systems.  
+https://doi.org/10.1007/s44230-025-00131-4
 
